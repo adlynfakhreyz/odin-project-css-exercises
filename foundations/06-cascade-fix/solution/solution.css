@@ -74,9 +74,9 @@ div.text {
   color: white;
   font-weight: bold;
 }
-
 /*
   For the following rule we first removed it from its original position in the file: 
+
 
   .child {
     color: rgb(0, 0, 0);
